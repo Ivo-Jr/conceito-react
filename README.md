@@ -9,7 +9,7 @@ Esse é o repositório oficial do curso de React postado no YouTube. O objetivo 
 - [MUI-CORE](https://mui.com/)
 
 # Links úteis
-🛑 Aula: 
+🛑 Aula: https://www.youtube.com/watch?v=rT2dsWgm4ak
 
 🎮 Comunidade: https://discord.com/invite/6yPmWyXmBq
 
